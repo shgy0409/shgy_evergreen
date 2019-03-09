@@ -1,0 +1,19 @@
+{
+  "name": "shgy_evergreen",
+  "version": "1.0.0",
+  "description": "shgy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shgy0409/shgy_evergreen.git"
+  },
+  "author": "shgy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shgy0409/shgy_evergreen/issues"
+  },
+  "homepage": "https://github.com/shgy0409/shgy_evergreen#readme"
+}
