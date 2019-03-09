@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shgy0409/shgy_evergreen/issues"
   },
-  "homepage": "https://github.com/shgy0409/shgy_evergreen#readme"
+  "homepage": "https://github.com/shgy0409/shgy_evergreen#readme",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7"
+  }
 }
